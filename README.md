@@ -1,2 +1,2 @@
 # Geeks-Scraping
-Script to scrap Geeks for Geeks.
+Python Script to scrap Geeks for Geeks.
